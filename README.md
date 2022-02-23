@@ -5,11 +5,11 @@ Hi, I'm Kota.Siva Narayana,a passionate engineering graduate specialised in comp
 <b>Talking about Education/Skills:</b><br>
 Graduating in 2021 from Gudlavalleru Enginering College<br>
 <ul>
-  <li>Data Science , Machine Learning and Web development</li>             
-  <li>Python , Java, C</li>
-  <li>Html, CSS, Java Script</li>
+  <li>Software Development</li>             
+  <li>Python , Java</li>
+  <li>Html, CSS</li>
   <li>DBMS, MySQL</li>
-  <li>libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib</li>
+  <li>libraries: OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib</li>
 </ul>
 <Strong>Contact me at:</strong> kota.sivanarayana6475@gmail.com
 
